@@ -1,0 +1,28 @@
+*   a7cff89 (HEAD -> main, origin/main, feature/another-feature) Merge pull request #2 from prasannnna/feature/another-feature
+|\  
+| * 8677330 (origin/feature/another-feature) feat: Add test feature
+| * d3e0a11 (tag: v1.1.0, tag: v1.0.0) docs: Update README
+| * 5dbcbc2 feat: Add new feature
+| * d273afb docs: Add FAQ section
+* |   0b88259 Integrated updates from feature/new-feature into main branch.
+|\ \  
+| * \   38c5e9f Merge branch 'main' into feature/new-feature
+| |\ \  
+| |/ /  
+|/| |   
+* | | 017caa9 My GIT_JOURNEY in mastering this GIT Mastery Challenge
+* | | 8605b59 Changed some content to correct the student name
+| * | f107180 (origin/feature/new-feature, feature/new-feature) feat: Add new feature
+| |/  
+| * 9ebcf82 merge: Resolve all conflicts between main and conflict-simulator branches
+| * 58287fe merge: Resolve all conflicts between main and conflict-simulator branches
+|/  
+*   61f5adf merge: Resolve all conflicts between main and dev branches
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
